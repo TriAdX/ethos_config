@@ -1,8 +1,8 @@
 maxgputemp 85
 stratumproxy enabled
-proxywallet changeme
-proxypool1 pool-usa.ethosdistro.com:5001
-proxypool2 pool-eu.ethosdistro.com:5001
+proxywallet 0xA9CF8d6CAfc3422C4E8B8800234357D5A7719349
+proxypool1 ubq.minertopia.org:8008
+#proxypool2 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 
