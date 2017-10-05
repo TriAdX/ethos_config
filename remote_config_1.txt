@@ -1,3 +1,4 @@
+globalminer claymore
 maxgputemp 85
 stratumproxy enabled
 proxywallet 0xA9CF8d6CAfc3422C4E8B8800234357D5A7719349
