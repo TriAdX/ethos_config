@@ -7,7 +7,7 @@ proxypool1 ubq.minertopia.org:8008
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 globalcore 1175
-globalmem 2175
+globalmem 2150
 globalpowertune 20
 
 
