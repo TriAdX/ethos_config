@@ -5,8 +5,9 @@ proxywallet 0xA9CF8d6CAfc3422C4E8B8800234357D5A7719349
 proxypool1 ubq.minertopia.org:8008
 #proxypool2 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 85
-# globalcore 1125
+globalfan 75
+globalcore 1100
+
 # globalmem 2125
 
 
