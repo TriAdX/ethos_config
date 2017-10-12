@@ -7,8 +7,10 @@ proxypool1 ubq.minertopia.org:8008
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 globalcore 1200
-globalmem 2075
+globalmem 2100
 
+#globalcore 1200
+#globalmem 2075 28.4
 
  
 # ethOS Pool: ethosdistro.com/pool
