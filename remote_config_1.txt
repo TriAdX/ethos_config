@@ -8,7 +8,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 globalcore 1350
 globalmem 2100
-vlt 0ed2cc  820 821 822 823 950 825 
+#vlt 0ed2cc  820 821 822 823 1000 825 
 
 
 #globalcore 1200
