@@ -1,10 +1,17 @@
+globalminer sgminer-gm-xmr
+sgminer-gm-xmr=proxypool1 mine.moneropool.com:3333
+# sgminer-gm-xmr=proxypool2 xmr-eu.dwarfpool.com:8050 
+sgminer-gm-xmr=proxywallet 4AhYx7CYAXmBkvWa9MfSvc7vZ6CtDBNuUADcvEYkdsrrT8DDd6bg1Y5Wu7xQr91KY8iyzcRJrwFZECy82GqpCNaASwEGuMU
+# sgminer-gm-xmr=poolpass1 x
+# sgminer-gm-xmr=poolpass2 x
+
 #globalminer claymore
 maxgputemp 85
 stratumproxy enabled
 #proxywallet 0xA9CF8d6CAfc3422C4E8B8800234357D5A7719349
 #proxypool1 ubq.minertopia.org:8008
 #proxypool2 pool-eu.ethosdistro.com:5001
-#flags --cl-global-work 8192 --farm-recheck 200
+flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 globalcore 1250
 globalmem 2100
@@ -181,10 +188,10 @@ vlt 0ed2cc 950 950 950 900 900 900
 #
 # SAMPLE XMR CONFIG (note: the wallet and payment id is long, there are no line breaks)
 # -------------------------------------------------------
- globalminer sgminer-gm-xmr
- sgminer-gm-xmr=proxypool1 mine.moneropool.com:3333
+#globalminer sgminer-gm-xmr
+#sgminer-gm-xmr=proxypool1 mine.moneropool.com:3333
 # sgminer-gm-xmr=proxypool2 xmr-eu.dwarfpool.com:8050 
- sgminer-gm-xmr=proxywallet 4AhYx7CYAXmBkvWa9MfSvc7vZ6CtDBNuUADcvEYkdsrrT8DDd6bg1Y5Wu7xQr91KY8iyzcRJrwFZECy82GqpCNaASwEGuMU
+#sgminer-gm-xmr=proxywallet 4AhYx7CYAXmBkvWa9MfSvc7vZ6CtDBNuUADcvEYkdsrrT8DDd6bg1Y5Wu7xQr91KY8iyzcRJrwFZECy82GqpCNaASwEGuMU
 # sgminer-gm-xmr=poolpass1 x
 # sgminer-gm-xmr=poolpass2 x
 # ---------------------------------------------------------
