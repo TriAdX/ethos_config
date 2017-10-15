@@ -11,22 +11,15 @@ globalcore 1250
 globalmem 2100
 vlt 0ed2cc 950 950 950 900 900 900
 
-
 #vlt 0ed2cc  820 821 822 823 1000 825 
-
 #globalcore 1350
 #globalmem 2100
-
-
 #globalcore 1200
 #globalmem 2100  28.75 171
-
 #globalcore 1200
 #globalmem 2105  28.74 27.18 170
-
 #globalcore 1225
 #globalmem 2100 28.7 28.3 172
-
 #globalcore 1250
 #globalmem 2105 28.8 28.3 172
  
