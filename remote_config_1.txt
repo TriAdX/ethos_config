@@ -6,7 +6,7 @@ maxgputemp 85
 stratumproxy enabled
   sgminer-gm-xmr=proxypool1 mine.moneropool.com:3334
   sgminer-gm-xmr=proxywallet 4AhYx7CYAXmBkvWa9MfSvc7vZ6CtDBNuUADcvEYkdsrrT8DDd6bg1Y5Wu7xQr91KY8iyzcRJrwFZECy82GqpCNaASwEGuMU
-flags --cl-global-work 8192 --farm-recheck 200
+#flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 globalcore 1250
 globalmem 2050
