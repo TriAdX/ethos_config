@@ -12,9 +12,14 @@
 globalminer claymore
 maxgputemp 85
 stratumproxy enabled
-proxywallet 0xA9CF8d6CAfc3422C4E8B8800234357D5A7719349
-proxypool1 ubq.minertopia.org:8008
+
+#proxywallet 0xA9CF8d6CAfc3422C4E8B8800234357D5A7719349
+#proxypool1 ubq.minertopia.org:8008
 #proxypool2 pool-eu.ethosdistro.com:5001
+
+proxywallet 0x0bdC4F12fB57d3acA9C3cF72B7AA2789A20d27f2
+proxypool1 us1.ethermine.org:4444
+
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 globalcore 1167
