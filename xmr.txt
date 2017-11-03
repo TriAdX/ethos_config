@@ -4,23 +4,17 @@
 # sgminer-gm-xmr=poolpass1 x
 # sgminer-gm-xmr=poolpass2 x
 
-#sgminer-gm-xmr=proxypool1 mine.xmrpool.net:3334
-#sgminer-gm-xmr=proxywallet 4AhYx7CYAXmBkvWa9MfSvc7vZ6CtDBNuUADcvEYkdsrrT8DDd6bg1Y5Wu7xQr91KY8iyzcRJrwFZECy82GqpCNaASwEGuMU
-#sgminer-gm-xmr=poolpass1 triadx@aol.com
-
 maxgputemp 85
 stratumproxy enabled
 
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
-globalcore 1167
+globalcore 1250
 globalmem 2050
 vlt 0ed2cc 950 950 950 900 900 900
 
 
-#globalcore 1250
-#globalmem 2050
-#vlt 0ed2cc 950 950 950 900 900 900
+
 
 #vlt 0ed2cc  820 821 822 823 1000 825 
 #globalcore 1350
