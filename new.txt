@@ -2,3 +2,10 @@ globalminer claymore-xmr
 claymore-xmr=flags -pow7 1
 proxypool1 xmr-usa.dwarfpool.com:8100 
 proxywallet 44tLjmXrQNrWJ5NBsEj2R77ZBEgDa3fEe9GLpSf2FRmhexPvfYDUAB7EXX1Hdb3aMQ9FLqdJ56yaAhiXoRsceGJCRS3Jxkn.806631cd0d963658fffc77711118c0e14f388ddbfa68d2f95d843a54f1956626
+maxgputemp 85
+stratumproxy enabled
+flags --cl-global-work 8192 --farm-recheck 200
+globalfan 75
+globalcore 1250
+globalmem 2100
+vlt 0ed2cc 950 950 950 900 900 900
