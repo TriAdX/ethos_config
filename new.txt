@@ -2,7 +2,7 @@ globalminer claymore-xmr
 claymore-xmr=flags -pow7 1
 proxypool1 mine.moneropool.com:7777
 proxywallet 4AhYx7CYAXmBkvWa9MfSvc7vZ6CtDBNuUADcvEYkdsrrT8DDd6bg1Y5Wu7xQr91KY8iyzcRJrwFZECy82GqpCNaASwEGuMU
-poolpass1 email.com
+poolpass1 email@email.com
 maxgputemp 85
 stratumproxy enabled
 flags --cl-global-work 8192 --farm-recheck 200
