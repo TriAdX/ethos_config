@@ -1,5 +1,5 @@
 globalminer xmr-stak
-xmr-stak=flags --currency cryptonight_v8 --noNVIDIA
+xmr-stak=flags --currency cryptonight_v8 --noNVIDIA --amd /home/ethos/xmr-stak-amd.stub.conf
 proxypool1 mine.moneropool.com:7777
 proxypool2 mine.moneropool.com:7777
 proxywallet 4AhYx7CYAXmBkvWa9MfSvc7vZ6CtDBNuUADcvEYkdsrrT8DDd6bg1Y5Wu7xQr91KY8iyzcRJrwFZECy82GqpCNaASwEGuMU
