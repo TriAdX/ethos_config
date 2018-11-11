@@ -10,6 +10,6 @@ stratumproxy enabled
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 globalcore 1250
-globalmem 2100
+globalmem 2125
 safevolt disabled
 vlt 0ed2cc 900 900 900 900 900 900
