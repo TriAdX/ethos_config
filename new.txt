@@ -13,4 +13,4 @@ globalcore 1250
 globalmem 2100
 safevolt disabled
 vlt 0ed2cc 900 900 900 900 900 900
-test
+
